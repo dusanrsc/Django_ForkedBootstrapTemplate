@@ -1,1 +1,1 @@
-"# Django_ForkedBootstrapTemplate" 
+# Django_ForkedBootstrapTemplate
